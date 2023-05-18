@@ -1,0 +1,16 @@
+{
+  "resourceName": "BookImaes",
+  "policyUUID": "29b9a122",
+  "bucketName": "mybookstore1c400f287f114c549a6ffa3e2412244c",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
